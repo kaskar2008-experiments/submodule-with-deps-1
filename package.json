@@ -1,0 +1,19 @@
+{
+  "name": "submodules-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "js-simple-events": "^1.2.3",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.9.3",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaskar2008",
+  "license": "MIT"
+}
